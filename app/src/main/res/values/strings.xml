@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GYG</string>
+
+    <string name="main_activity_fallback_error_message">Ooops. Something is off.</string>
+
+    <string name="review_list_load_more">Load more</string>
+
+    <string name="review_list_item_title_format">“%1$s”</string>
+    <string name="review_list_item_rating_format">%1$s/5.0 stars</string>
+    <string name="review_list_item_author_format">reviewed by %1$s</string>
+</resources>
